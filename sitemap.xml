@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>bjjprices.com/</loc>
-<lastmod>2021-01-16T23:26:49-00:00</lastmod>
+<lastmod>2021-01-17T14:51:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -20,6 +20,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>bjjprices.com/pages/homepage.html</loc>
 <lastmod>2010-12-05T19:30:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>bjjprices.com/Review-of-The-Best-4-Massage-Guns-for-BJJ-Recovery.html</loc>
+<lastmod>2021-01-17T14:37:10-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1712,6 +1719,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>bjjprices.com/category/gear.html</loc>
+<lastmod>2021-01-17T14:37:10-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>bjjprices.com/category/instructionals.html</loc>
 <lastmod>2021-01-16T22:48:22-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -1720,7 +1734,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>bjjprices.com/tag/instructionals.html</loc>
-<lastmod>2021-01-16T22:48:22-04:56</lastmod>
+<lastmod>2021-01-17T14:37:10-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4947,7 +4961,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>bjjprices.com/author/webmaster.html</loc>
-<lastmod>2021-01-16T22:48:22-04:56</lastmod>
+<lastmod>2021-01-17T14:37:10-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
